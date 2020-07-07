@@ -21,10 +21,10 @@ date_format = "Jan 2006"
   title = "Postdoctoral Research Associate"
   company = "University of Washington - School of Marine and Environmental Affairs"
   company_url = ""
-  location = "Seattle, washington"
+  location = "Seattle, Washington"
   date_start = "2020-01-01"
   date_end = ""
-  description = """  """
+  description = """As part of the [Joint Institute for the Study of the Atmosphere and Ocean (JISAO)](https://jisao.uw.edu/), worked with NOAA economists and other scientists to develop regional planning models for salmon habitat restoration that explicitly consider restoration costs"""
 
 [[experience]]
   title = "Research Assistant"
@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   location = "East Lansing, Michigan"
   date_start = "2015-09-01"
   date_end = "2019-12-01"
-  description = """  """
+  description = """Led teams of economists and other social scientists in the collection and analysis of farmer panel datasets as part of the [Kellogg Biological Station Long-term Ecological Research (LTER) Program](https://lter.kbs.msu.edu/); Research primarily focused on conservation practice adoption by grain farmers and long-term feedbacks between pesticide use and ecosystems"""
 
 [[experience]]
   title = "Teaching Assistant (Instructor)"
@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   location = "East Lansing, Michigan"
   date_start = "2018-09-01"
   date_end = "2018-12-01"
-  description = """  """
+  description = """Primary instructor of a 70-student undergraduate, introduction-level environmental economics course (EEM 255: Ecological Economics)"""
 
 [[experience]]
   title = "Intern"
@@ -51,6 +51,6 @@ date_format = "Jan 2006"
   location = "Seattle, Washington"
   date_start = "2015-05-01"
   date_end = "2015-08-01"
-  description = """  """
+  description = """Lead the production of a report on the economic effects of funding short-falls at Olympic National Park on the surrounding community"""
 
 +++
