@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Research Associate
+role: Natural Resource Economist
 
 # Organizations/Affiliations
 organizations:
@@ -50,7 +50,7 @@ social:
   link: https://twitter.com/BVanDeynze
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=1Jk2-LkAAAAJ
+  link: https://scholar.google.com/citations?user=1Jk2-LkAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/vandeynze
@@ -72,4 +72,4 @@ user_groups:
 
 
 
-**Braeden Van Deynze** is a resource economist at the University of Washington's School of Marine and Environmental Affairs. His research interests include conservation planning in riparian systems, environmental management decisions by private land owners, and the dynamic ecological effects of agricultural pesticides. In collaboration with the National Oceanic and Atmospheric Administration's Northwest Fisheries Science Center, Braeden is currently developing planning models for Pacific salmon conservation.
+**Braeden Van Deynze** is a postdoc at the University of Washington's School of Marine and Environmental Affairs. His research interests include conservation planning in riparian systems, environmental management decisions by private land owners, and the dynamic ecological effects of agricultural pesticides. In collaboration with the National Oceanic and Atmospheric Administration's Northwest Fisheries Science Center, Braeden is currently developing planning models for Pacific salmon conservation.
