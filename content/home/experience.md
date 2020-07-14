@@ -26,6 +26,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """As part of the [Joint Institute for the Study of the Atmosphere and Ocean (JISAO)](https://jisao.uw.edu/), I am working with NOAA economists and other scientists to develop regional planning models for salmon habitat restoration that explicitly consider restoration costs at a precise spatial scale"""
 
+
 [[experience]]
   title = "Research Assistant"
   company = "Michigan State University - Department of Agricultural, Food, and Resource Economics"
@@ -33,7 +34,8 @@ date_format = "Jan 2006"
   location = "East Lansing, Michigan"
   date_start = "2015-09-01"
   date_end = "2019-12-01"
-  description = """I led teams of economists and other social scientists in the collection and analysis of farmer panel datasets as part of the [Kellogg Biological Station Long-term Ecological Research (LTER) Program](https://lter.kbs.msu.edu/); My research primarily focused on conservation practice adoption by grain farmers and long-term feedbacks between pesticide use and ecosystems"""
+
+  description = """I led teams of economists and other social scientists in the collection and analysis of farmer panel datasets as part of the [Kellogg Biological Station Long-term Ecological Research (LTER) Program](https://lter.kbs.msu.edu/); My research primarily focused on conservation practice adoption by grain farmers and long-term feedbacks between pesticide use decisions and ecosystem functions"""
 
 [[experience]]
   title = "Teaching Assistant (Instructor)"
@@ -44,6 +46,7 @@ date_format = "Jan 2006"
   date_end = "2018-12-01"
   description = """I developed and delivered lectures and other course material as primary instructor for a 70-student undergraduate, introduction-level environmental economics course (EEM 255: Ecological Economics)"""
 
+
 [[experience]]
   title = "Intern"
   company = "National Parks Conservation Association"
@@ -51,6 +54,6 @@ date_format = "Jan 2006"
   location = "Seattle, Washington"
   date_start = "2015-05-01"
   date_end = "2015-08-01"
-  description = """I performed research and published a report on the economic effects of funding short-falls at Olympic National Park on the surrounding community"""
+  description = """I led the production of a [report](https://www.npca.org/resources/3152-park-on-the-edge-funding-shortfalls-at-olympic-national-park) on the economic effects of funding shortfalls at Olympic National Park on the surrounding community"""
 
 +++
