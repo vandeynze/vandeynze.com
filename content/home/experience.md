@@ -35,7 +35,7 @@ date_format = "Jan 2006"
   date_start = "2015-09-01"
   date_end = "2019-12-01"
 
-  description = """I led teams of economists and other social scientists in the collection and analysis of farmer panel datasets as part of the [Kellogg Biological Station Long-term Ecological Research (LTER) Program](https://lter.kbs.msu.edu/); My research primarily focused on conservation practice adoption by grain farmers and long-term feedbacks between pesticide use decisions and ecosystem functions."""
+  description = """I led teams of economists and other social scientists in the collection and analysis of farmer panel datasets as part of the [Kellogg Biological Station Long-term Ecological Research (LTER) Program](https://lter.kbs.msu.edu/). My research primarily focused on conservation practice adoption by grain farmers and long-term feedbacks between pesticide use decisions and ecosystem functions."""
 
 [[experience]]
   title = "Teaching Assistant (Instructor)"
@@ -44,7 +44,7 @@ date_format = "Jan 2006"
   location = "East Lansing, Michigan"
   date_start = "2018-09-01"
   date_end = "2018-12-01"
-  description = """I developed and delivered lectures and other course material as primary instructor for a 70-student undergraduate, introduction-level environmental economics course (EEM 255: Ecological Economics)."""
+  description = """I developed and delivered lectures and other course material as primary instructor for a 69-student undergraduate, introduction-level environmental economics course (EEM 255: Ecological Economics)."""
 
 
 [[experience]]

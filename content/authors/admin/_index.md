@@ -72,4 +72,4 @@ user_groups:
 
 
 
-**Braeden Van Deynze** is a postdoc at the University of Washington's School of Marine and Environmental Affairs. His research interests include conservation planning in riparian systems, environmental management decisions by private land owners, and the dynamic ecological effects of agricultural pesticides. In collaboration with the National Oceanic and Atmospheric Administration Northwest Fisheries Science Center, Braeden is leading the development of novel planning models for Pacific salmon conservation.
+I am a postdoc at the University of Washington's School of Marine and Environmental Affairs. My research interests include conservation planning in riparian systems, environmental management decisions by private land owners, and the dynamic ecological effects of agricultural pesticides. In collaboration with the National Oceanic and Atmospheric Administration Northwest Fisheries Science Center, Braeden is leading the development of novel planning models for Pacific salmon conservation.
