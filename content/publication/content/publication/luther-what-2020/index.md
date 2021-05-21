@@ -8,6 +8,5 @@ abstract: "Agricultural nutrient runoff and leaching into groundwater can impose
 featured: false
 publication: "*Journal of Soil and Water Conservation*"
 url_pdf: "https://doi.org/10.2489/jswc.2020.00184"
-doi: "10.2489/jswc.2020.00184"
 ---
 
