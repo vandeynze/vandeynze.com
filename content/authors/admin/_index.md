@@ -72,4 +72,4 @@ user_groups:
 
 
 
-I am a postdoc at the University of Washington's School of Marine and Environmental Affairs. My research interests include conservation planning in riparian systems, environmental management decisions by private land owners, and the dynamic ecological effects of agricultural pesticides. In collaboration with the National Oceanic and Atmospheric Administration Northwest Fisheries Science Center, I am leading the development of novel planning models for Pacific salmon conservation.
+I am the Natural Resource Economist for Washington Department of Fish and Wildlife. My research interests include conservation planning in riparian systems, environmental management decisions by private land owners, and the dynamic ecological effects of agricultural pesticides. During my postdoc at the University of Washington, in collaboration with the National Oceanic and Atmospheric Administration Northwest Fisheries Science Center, I lead the development of novel planning models for Pacific salmon conservation.
