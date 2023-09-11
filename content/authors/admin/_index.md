@@ -14,14 +14,14 @@ role: Natural Resource Economist
 
 # Organizations/Affiliations
 organizations:
-- name: University of Washington, School of Marine and Environmental Affairs
-  url: "https://smea.uw.edu/"
+- name: Washington Dept. of Fish and Wildlife
+  url: "https://wdfw.wa.gov/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a resource economist focused on the intersection between conservation biology and human behavior.
 
 Interests:
-- Ecological Economics
+- Natural Resource Economics
 - Environmental Economics
 - Conservation Planning
 
